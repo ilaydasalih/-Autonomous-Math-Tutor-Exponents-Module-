@@ -18,3 +18,5 @@ As this project evolves from a core engine to a full-scale educational platform,
 **Visual New Generation Questions:** Integration of high-quality visual content and diagrams for "New Generation" questions to support visual learning and context-based problem solving.
 
 **Enhanced Interactivity:** Transitioning the current text-based interaction into a dynamic UI where students can interact with mathematical shapes and graphs.
+<img width="875" height="548" alt="image" src="https://github.com/user-attachments/assets/300f7bba-e492-4500-8e24-7f0d1d824d7f" />
+<img width="657" height="413" alt="image" src="https://github.com/user-attachments/assets/2d829c0f-bd37-41ca-a5f0-c6b3ea368b85" />
